@@ -1,0 +1,23 @@
+body{
+	background-color: #1465e8;
+}
+#header{
+	text-align:center;
+	font-family: 'Raleway'
+}
+
+#todo{
+  border-collapse: collapse;
+  width:60%;
+  font-family:'Raleway';
+ 
+}
+#todo td,#todo,th{
+  border:1px solid white;
+  padding:8px;
+}
+#headertodo{
+  text-align:center;
+  font-family:'Raleway';
+
+}

@@ -1,0 +1,109 @@
+#content{
+  background-color:#1465e8;
+}
+#header{
+	text-align:center;
+  font-family:'Raleway';
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+  
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: grey;
+}
+#ToDoForm{
+	width:40%;
+	border:1px solid;
+	margin:auto;
+  background-color:white;
+  font-family:'Raleway';
+  
+	
+}
+#Action{
+  text-align:center;
+  
+}
+#Task{
+  margin-left:25px;
+  width:40%;
+}
+label{
+	display:inline-block;
+  float:left;
+  clear:left;
+  width:40%;
+  text-align:right;
+	
+}
+input{
+  margin-bottom:20px;
+  
+}
+
+#Description{
+  margin-left:25px;
+  width:40%;
+}
+#task{
+  text-align:
+}
+#submit{
+  text-align:center;
+}
+#submit button{
+  
+  text-align:center;
+  padding:15px 30px;
+  font-size:15px;
+  font-family:'Roboto';
+  background-color:#1465e8;
+  color:white;
+}
+#todo{
+  border-collapse: collapse;
+  width:60%;
+  font-family:'Raleway';
+ 
+}
+#todo td,#todo,th{
+  border:1px solid white;
+  padding:8px;
+}
+#headertodo{
+  text-align:center;
+  font-family:'Raleway';
+
+}
+#TaskNumber{
+  width:10px;
+}
+#removep{
+  text-align:center;
+}
+#remove{
+  padding:15px 30px;
+  font-size:10px;
+  font-family: 'Roboto';
+  background-color:#d10c1c;
+  color:white;
+}
+}
